@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UsandoIfElse/1.0.0": {
+        "dependencies": {
+          "ExemploDeCRUD": "1.0.0"
+        },
+        "runtime": {
+          "UsandoIfElse.dll": {}
+        }
+      },
+      "ExemploDeCRUD/1.0.0": {
+        "runtime": {
+          "ExemploDeCRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsandoIfElse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploDeCRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
